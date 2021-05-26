@@ -1,9 +1,0 @@
-E:\_DEVELING\_GITHUB\NET\Undersoft\Doors\Devel\Undersoft.Doors.Fwk\bin\Debug\netstandard2.0\Undersoft.Doors.Fwk.deps.json
-E:\_DEVELING\_GITHUB\NET\Undersoft\Doors\Devel\Undersoft.Doors.Fwk\bin\Debug\netstandard2.0\Undersoft.Doors.Fwk.dll
-E:\_DEVELING\_GITHUB\NET\Undersoft\Doors\Devel\Undersoft.Doors.Fwk\bin\Debug\netstandard2.0\Undersoft.Doors.Fwk.pdb
-E:\_DEVELING\_GITHUB\NET\Undersoft\Doors\Devel\Undersoft.Doors.Fwk\obj\Debug\netstandard2.0\Undersoft.Doors.Fwk.csprojAssemblyReference.cache
-E:\_DEVELING\_GITHUB\NET\Undersoft\Doors\Devel\Undersoft.Doors.Fwk\obj\Debug\netstandard2.0\Undersoft.Doors.Fwk.csproj.CoreCompileInputs.cache
-E:\_DEVELING\_GITHUB\NET\Undersoft\Doors\Devel\Undersoft.Doors.Fwk\obj\Debug\netstandard2.0\Undersoft.Doors.Fwk.AssemblyInfoInputs.cache
-E:\_DEVELING\_GITHUB\NET\Undersoft\Doors\Devel\Undersoft.Doors.Fwk\obj\Debug\netstandard2.0\Undersoft.Doors.Fwk.AssemblyInfo.cs
-E:\_DEVELING\_GITHUB\NET\Undersoft\Doors\Devel\Undersoft.Doors.Fwk\obj\Debug\netstandard2.0\Undersoft.Doors.Fwk.dll
-E:\_DEVELING\_GITHUB\NET\Undersoft\Doors\Devel\Undersoft.Doors.Fwk\obj\Debug\netstandard2.0\Undersoft.Doors.Fwk.pdb
