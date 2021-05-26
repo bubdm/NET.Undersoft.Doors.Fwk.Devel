@@ -1,9 +1,0 @@
-E:\_DEVELING\_GITHUB\NET\Undersoft\Dors\Release\Undersoft.Dors\bin\x86\Debug\netstandard2.0\Undersoft.Dors.deps.json
-E:\_DEVELING\_GITHUB\NET\Undersoft\Dors\Release\Undersoft.Dors\bin\x86\Debug\netstandard2.0\Undersoft.Dors.dll
-E:\_DEVELING\_GITHUB\NET\Undersoft\Dors\Release\Undersoft.Dors\bin\x86\Debug\netstandard2.0\Undersoft.Dors.pdb
-E:\_DEVELING\_GITHUB\NET\Undersoft\Dors\Release\Undersoft.Dors\obj\x86\Debug\netstandard2.0\Undersoft.Dors.csprojAssemblyReference.cache
-E:\_DEVELING\_GITHUB\NET\Undersoft\Dors\Release\Undersoft.Dors\obj\x86\Debug\netstandard2.0\Undersoft.Dors.csproj.CoreCompileInputs.cache
-E:\_DEVELING\_GITHUB\NET\Undersoft\Dors\Release\Undersoft.Dors\obj\x86\Debug\netstandard2.0\Undersoft.Dors.AssemblyInfoInputs.cache
-E:\_DEVELING\_GITHUB\NET\Undersoft\Dors\Release\Undersoft.Dors\obj\x86\Debug\netstandard2.0\Undersoft.Dors.AssemblyInfo.cs
-E:\_DEVELING\_GITHUB\NET\Undersoft\Dors\Release\Undersoft.Dors\obj\x86\Debug\netstandard2.0\Undersoft.Dors.dll
-E:\_DEVELING\_GITHUB\NET\Undersoft\Dors\Release\Undersoft.Dors\obj\x86\Debug\netstandard2.0\Undersoft.Dors.pdb
